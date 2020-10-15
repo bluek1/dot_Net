@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/j4Vy4zJm3lrdotVpcm8JnhMGIwtGGFjXGQQA+vRx/klSB8FEJRxkKR1AtO49XShkYwz48h7VaHwMgEdnEQRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\Workspaces\\my\\SmiTranslate\\BluekLibrary\\BluekLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\google.protobuf\\3.10.1\\google.protobuf.3.10.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mysql.data\\8.0.18\\mysql.data.8.0.18.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mysql.data.entity\\6.10.9\\mysql.data.entity.6.10.9.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\oracle.manageddataaccess\\19.5.0\\oracle.manageddataaccess.19.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

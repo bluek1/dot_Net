@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluekLibrary", "BluekLibrary.csproj", "{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "..\TestConsole\TestConsole.csproj", "{5148684F-96C1-498D-9525-9C3486217462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bluekFramework", "..\bluekFramework\bluekFramework.csproj", "{3393FE04-58DC-4915-8EA2-74B0D1850812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveList", "..\MoveList\MoveList.csproj", "{84799560-5F3A-4F29-BDEB-25DDA69C3E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfMoveListView", "..\wpfMoveListView\wpfMoveListView.csproj", "{E53EB99C-766C-4B02-9690-B601F6F30350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownWatch", "..\DownWatch\DownWatch.csproj", "{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Debug|x64.Build.0 = Debug|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Release|x64.ActiveCfg = Release|Any CPU
+		{51DA97E0-81E5-4A78-BC95-6D89A9631DEE}.Release|x64.Build.0 = Release|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Debug|x64.Build.0 = Debug|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Release|x64.ActiveCfg = Release|Any CPU
+		{5148684F-96C1-498D-9525-9C3486217462}.Release|x64.Build.0 = Release|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Debug|x64.Build.0 = Debug|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Release|x64.ActiveCfg = Release|Any CPU
+		{3393FE04-58DC-4915-8EA2-74B0D1850812}.Release|x64.Build.0 = Release|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Debug|x64.Build.0 = Debug|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Release|x64.ActiveCfg = Release|Any CPU
+		{84799560-5F3A-4F29-BDEB-25DDA69C3E73}.Release|x64.Build.0 = Release|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Debug|x64.Build.0 = Debug|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Release|x64.ActiveCfg = Release|Any CPU
+		{E53EB99C-766C-4B02-9690-B601F6F30350}.Release|x64.Build.0 = Release|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A569D2E-9EDE-45AE-AA39-8EEBAD015567}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44653C9A-ADC4-40D0-AC36-9840FB51E7FD}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bluek1000.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BluekLibrary.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\TestConsole\\TestConsole.csproj
+		SccProjectName2 = ../TestConsole
+		SccLocalPath2 = ..\\TestConsole
+		SccProjectUniqueName3 = ..\\bluekFramework\\bluekFramework.csproj
+		SccProjectName3 = ../bluekFramework
+		SccLocalPath3 = ..\\bluekFramework
+		SccProjectUniqueName4 = ..\\MoveList\\MoveList.csproj
+		SccProjectName4 = ../MoveList
+		SccLocalPath4 = ..\\MoveList
+		SccProjectUniqueName5 = ..\\wpfMoveListView\\wpfMoveListView.csproj
+		SccProjectName5 = ../wpfMoveListView
+		SccLocalPath5 = ..\\wpfMoveListView
+		SccProjectUniqueName6 = ..\\DownWatch\\DownWatch.csproj
+		SccProjectName6 = ../DownWatch
+		SccLocalPath6 = ..\\DownWatch
+	EndGlobalSection
+EndGlobal

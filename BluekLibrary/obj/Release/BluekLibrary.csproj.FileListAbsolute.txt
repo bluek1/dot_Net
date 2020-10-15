@@ -1,0 +1,17 @@
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\BluekLibrary.dll.config
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\BluekLibrary.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\BluekLibrary.pdb
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\EntityFramework.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\MySql.Data.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\obj\Release\BluekLibrary.csproj.CopyComplete
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\obj\Release\BluekLibrary.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\obj\Release\BluekLibrary.pdb
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\Google.Protobuf.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\Renci.SshNet.dll
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\bin\Release\Google.Protobuf.pdb
+C:\Users\PC\source\Workspaces\my\SmiTranslate\BluekLibrary\obj\Release\BluekLibrary.csproj.CoreCompileInputs.cache

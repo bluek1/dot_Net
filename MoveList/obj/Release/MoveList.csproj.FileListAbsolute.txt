@@ -1,0 +1,5 @@
+C:\Users\PC\source\Workspaces\my\SmiTranslate\MoveList\obj\Release\MoveList.csprojAssemblyReference.cache
+C:\Users\PC\source\Workspaces\my\SmiTranslate\MoveList\obj\Release\MainWindow.g.cs
+C:\Users\PC\source\Workspaces\my\SmiTranslate\MoveList\obj\Release\App.g.cs
+C:\Users\PC\source\Workspaces\my\SmiTranslate\MoveList\obj\Release\MoveList_MarkupCompile.cache
+C:\Users\PC\source\Workspaces\my\SmiTranslate\MoveList\obj\Release\MoveList_MarkupCompile.lref
