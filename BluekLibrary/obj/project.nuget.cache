@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/j4Vy4zJm3lrdotVpcm8JnhMGIwtGGFjXGQQA+vRx/klSB8FEJRxkKR1AtO49XShkYwz48h7VaHwMgEdnEQRw==",
+  "dgSpecHash": "k0m1qfcJ2HtsejlC/A2ZwJSan32CLzId5uaivOef76/tb3rZwb/B3RcN4D05oEtuE/nqWsV/Ac4VFlbSccAZfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\Workspaces\\my\\SmiTranslate\\BluekLibrary\\BluekLibrary.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\dot_Net\\BluekLibrary\\BluekLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",

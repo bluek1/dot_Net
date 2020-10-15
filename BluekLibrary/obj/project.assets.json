@@ -730,11 +730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\Workspaces\\my\\SmiTranslate\\BluekLibrary\\BluekLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\dot_Net\\BluekLibrary\\BluekLibrary.csproj",
       "projectName": "BluekLibrary",
-      "projectPath": "C:\\Users\\PC\\source\\Workspaces\\my\\SmiTranslate\\BluekLibrary\\BluekLibrary.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\dot_Net\\BluekLibrary\\BluekLibrary.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\Workspaces\\my\\SmiTranslate\\BluekLibrary\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\dot_Net\\BluekLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

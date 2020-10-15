@@ -48,7 +48,6 @@ C:\Users\PC\source\repos\dot_Net\MoveList\bin\Debug\ffme.win.dll
 C:\Users\PC\source\repos\dot_Net\MoveList\bin\Debug\FFmpeg.AutoGen.dll
 C:\Users\PC\source\repos\dot_Net\MoveList\bin\Debug\ffme.win.xml
 C:\Users\PC\source\repos\dot_Net\MoveList\bin\Debug\FFmpeg.AutoGen.xml
-C:\Users\PC\source\repos\dot_Net\MoveList\obj\Debug\MoveList.csprojAssemblyReference.cache
 C:\Users\PC\source\repos\dot_Net\MoveList\obj\Debug\MainWindow.g.cs
 C:\Users\PC\source\repos\dot_Net\MoveList\obj\Debug\App.g.cs
 C:\Users\PC\source\repos\dot_Net\MoveList\obj\Debug\MoveList_MarkupCompile.cache
